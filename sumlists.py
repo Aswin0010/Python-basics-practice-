@@ -1,3 +1,4 @@
+#progeam to add four numbers in the list
 num=[]
 num1= int(input("Enter the first number : "))
 num.append(num1)
