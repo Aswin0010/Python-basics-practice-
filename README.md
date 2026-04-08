@@ -1,2 +1,2 @@
-# Python-practice-
+# Python-practice
 My python learning journey 
